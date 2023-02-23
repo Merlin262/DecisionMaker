@@ -1,0 +1,2 @@
+Link para download da DataBase: https://datasets.imdbws.com/title.basics.tsv.gz
+(Oarquivo é grande demais para colocar no github)
